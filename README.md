@@ -1,4 +1,4 @@
-# Stock_market_analysis
+# Stock market analysis
 
 Seasonal
 Walmart is one of the biggest retail corporations. One of the key factors to a successful giant retail business is to be a household name. In marketing, we consider factors like sales, profit, ad campaigns and so on. It is always interesting to see how people do analysis, forecast, and produce innovative marketing strategies. Here, monthly data of people's interest over time from 2004-2022(till April) has been collected from link, analyzed the data to understand where Walmart stands in terms of popularity, and it will be useful in strategy planning/decision making from marketing analytics.
